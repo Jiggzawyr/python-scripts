@@ -1,0 +1,20 @@
+=============================================================
+INSTALLATION
+=============================================================
+
+Got to torproject's page, download the Windows Expert Bundle.
+When you open the .zip file, you will find a Tor folder.
+Extract the folder to your system.
+Open CMD.exe (as Admin), navigate to the folder and than type
+
+c:\Tor\tor.exe –-service install
+
+=============================================================
+COMMANDS
+=============================================================
+
+pip install fake-useragent
+pip install stem
+
+pip3 install torpy[requests]
+
